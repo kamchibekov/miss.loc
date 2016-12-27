@@ -1,0 +1,35 @@
+$(document).ready(function() {
+    var cookie_view = $.cookie('SotbitMissView');
+    if(!cookie_view) {
+       cookie_view = "default";
+    }
+    BX.ajax({
+        url: '/html/settings/ajax/panel_settings.php',
+        method: 'POST',
+        dataType: "html",
+        data: 'cookie_view=' + cookie_view,
+        onsuccess: function(data){
+            $("body").append(data);
+        },
+    });
+});
+
+
+function settings_open_close(id_pannel){
+  if($(id_pannel).hasClass('open')) {
+   $(id_pannel).animate({right: '-269px'}, 700, "linear", function(){ $(id_pannel).removeClass("open")});
+  } else {
+   $(id_pannel).animate({right: 0}, 700, "linear", function(){ $(id_pannel).addClass("open")});
+  }
+}
+
+function site_style(view_site){
+    var cookie_view = $.cookie('SotbitMissView');
+    if(cookie_view != view_site) {
+        $.cookie('SotbitMissView', view_site, {
+            expires: 365,
+            path: '/',
+        });
+         window.location.reload();
+    }
+}

@@ -1,0 +1,684 @@
+/*Bg for header*/
+body .header {
+    background: url(../img/bg/miss_header_bg.jpg) no-repeat center 0;
+}
+body .header-top-block-left .wrap-phone {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAYAAACALL/6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOFJREFUeNqE0C1rQmEUwPEzuQYxLJoMRsE0EBkYRMRqUAy6GQW/wGDBMNDqJ7AIVvOtCjPcpMHgwCpsKBpUsMj8H3bQgagHfvfhuZy3ex9mrusXkWekkEQUj/IXG0wxxACfDo8K2pbwDRcH/MKHDNKo401flC1ZOzUwQ63reVXOL7Qwxh45naArzfGDAJp4ekkkdErR7mssdLIW9LHFSDvYtLycI4seVpg4jNbdhI6vHO9yGXF0yCuIfZQmhzk+5HrUyYmdCmyFyI2CEEr/C6JyP3QLceyyNLsryUH7i3IUYADEKDP1SG7RpQAAAABJRU5ErkJggg==) 0 7px no-repeat;
+}
+/*title-search-result */
+body div.title-search-result {
+    background: url(../img/bg/miss_title_search_result_bg.jpg) repeat-y 0 0 #fbfafa;        
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body div.title-search-result {
+    background-position: -10px 0;      
+}   
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body div.title-search-result {
+    background-position: -10px 0;      
+}       
+}
+/*title-search-result */
+/*End Bg for header bg*/
+
+/*Bg alpha top center*/
+body .main-top-center li > .alpha_inner {
+    background: url(../img/bg/miss_alpha_inner_bg.png) right bottom no-repeat #fff;
+    background-size: 243px 244px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .main-top-center li > .alpha_inner {
+    background-size: 203px 204px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .main-top-center li > .alpha_inner {
+    background-size: 173px 174px;
+}
+}
+/*End bg alpha top center*/
+
+/* Bg for main*/
+.main-bg  {
+    background: url(../img/bg/miss_big_banner_bg.jpg) center 0 no-repeat;
+    background-size: 1820px;
+}
+body .main-border {
+    border-top: 1px solid #7f7f7f; 
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+body .main-bg  {
+    background-size: 1510px;
+    background-position: center 7px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .main-bg  {
+    background-size: 1160px;
+    background-position: center 14px;
+}
+}
+@media (max-width: 767px) {
+body .main-bg  {
+    border-top: none;
+    background: none;
+}
+}
+/* End Bg for main*/
+
+/*Bg main banner*/
+body .block_banner .banner-inner{
+    background: url(../img/bg/miss_big_banner_phon.png) 0 0 repeat;
+}
+/*End bg main banner*/
+
+/*Bg main center block brand*/
+body .block_brand_wrap {
+    background: url(../img/bg/miss_big_banner_phon.png) 0 0 repeat;
+}
+
+body .main-center-block {
+    background: url(../img/bg/miss_small_banner_bg.jpg) center 57px no-repeat;
+    background-size: 1835px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .main-center-block  {
+    background-size: 1525px;
+    background-position: center 50px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .main-center-block  {
+    background-size: 1175px;
+    background-position: center 40px;
+}
+}
+@media (max-width: 767px) {
+body .main-center-block  {
+    background: none;
+}
+}
+body .block_brand {
+    background: url(../img/bg/miss_brand_bg.jpg) center bottom no-repeat;
+}
+/*End bg center block brand*/
+
+/*Bg for block buy now*/
+body .block_buy_now {
+    background: url(../img/bg/miss_buy_now_bg.jpg) center 70% no-repeat;
+    background-size: 1830px;
+}
+body .block_buy_now .container {
+    position: relative;
+}
+
+body .block_buy_now .container:before {
+    content: "";
+    background: url(../img/bg/miss_buy_top_now_bg.png) 0px 0px no-repeat;
+    display: block;
+    width: 294px;
+    height: 220px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+body .block_buy_now .wrap_online .block_online a,
+body .block_buy_now .wrap_online .block_online span {
+    background: url(../img/miss_block_online_line.png) right bottom no-repeat;
+    padding-left: 100px;
+}
+body .block_buy_now .item-discount:before {
+    content: url(../img/bg/miss_buy_now_item_discoun_bg.png);
+    display: block;
+    height: 41px;
+    line-height: 41px;
+    width: 28px;
+    position: absolute;
+    top: -30px;
+    right: -10px;
+    z-index: 50;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .block_buy_now  {
+    background-size: 1525px;
+    background-position: center 80%;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .block_buy_now  {
+    background-size: 1175px;
+    background-position: center 80%;
+}
+}
+@media (max-width: 767px) {
+body .block_buy_now  {
+   background: none;
+}
+body .block_buy_now .container:before {
+    display: none;
+}
+body .block_buy_now .item-discount:before {
+    content: url(../img/bg/miss_section_item_discount_bg.png);
+    height: 27px;
+    line-height: 27px;
+    width: 19px;
+    top: -20px;
+    right: -7px;
+}
+}
+/*End bg for block buy now*/
+
+/*Style block_news*/
+body .main_block_news {
+    background: url(../img/bg/miss_main_block_news.png ) center bottom no-repeat;
+    background-size: 555px 176px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .main_block_news {
+    background-size: 499px 158px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .main_block_news {
+    background-size: 389px 123px;
+}
+}
+@media (max-width: 767px) {
+body .main_block_news {
+    background-size: 90% auto;
+}
+}
+/*End style block_news*/
+
+/*Style for block seo*/
+body .block_seo ul {
+    /*background: url(../img/bg/miss_seo_ul_bg.png) -12px -16px no-repeat;*/
+}
+body .block_seo ul > li {
+    padding-left: 17px;
+    list-style: none;
+    background: url(../img/bg/miss_ul_li_icon.png) no-repeat 0 5px;
+}
+/*End style for block seo*/
+
+/*Style for page brand pagination*/
+body .wrap_brand_pagination:before {
+    content: "";
+    background: url(../img/bg/miss_wrap_brand_pagination_bg.png) no-repeat center top;
+    background-size: 730px 126px;
+    height: 126px;
+    width: 100%;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top: -40px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .wrap_brand_pagination:before {
+    content: "";
+    background: url(../img/bg/miss_wrap_brand_pagination_bg.png) no-repeat center top;
+    background-size: contain;
+    height: 113px;
+    width: 100%;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top: -35px;
+}
+}
+@media (max-width: 767px) {
+body .wrap_brand_pagination:before {
+   background-size: 100% 100%;
+   top: -42px;
+}
+}
+/*End style for page brand pagination*/
+
+
+/*Bg detail page*/
+body .detail_block_back_call .wrap_input  .back_call_submit {
+    background: url(../img/bg/miss_detail_input_bg.png) left top no-repeat #dbbfb9;
+}
+/*End Bg detail page*/
+
+/*Modal window*/
+body .modal-window.login_enter .modal-block-inner {
+    background: url(../img/bg/miss_modal_block_inner_bg.jpg) no-repeat bottom left #fff;
+}
+body .login-btn-wpar {
+    background: url(../img/bg/miss_small_fly_bg.png) top right  no-repeat;
+}
+/*Bg modal block basket*/
+body .window_basket .basket-item.item-bg-1 {
+    background: url(../img/bg/miss_modal_basket_item_bg_1.jpg) no-repeat 0px bottom;
+}
+body .window_basket .basket-item.item-bg-2 {
+    background: url(../img/bg/miss_modal_basket_item_bg_2.jpg) no-repeat 0px top;
+}
+body .window_basket .basket-item .wrap-img {
+    background: url(../img/bg/miss_modal_basket_item_img_bg.png) no-repeat 0px 10px;
+}
+body .basket-btn-order .basket-btn-order-inner {
+    background: url(../img/bg/miss_modal_basket_btn_order_bg.png) repeat -1px -1px #dbb9b9;
+}
+
+body .basket-btn-order:hover .basket-btn-order-inner,
+body .basket-btn-order:active .basket-btn-order-inner {
+    background: url(../img/bg/miss_modal_basket_btn_order_bg_act.png) repeat -1px -1px #d9b5b5;
+}
+body .basket-btn-order .basket-btn-order-inner:before {
+    content: "";
+    width: 111px;
+    height: 76px;
+    background: url(../img/bg/miss_modal_basket_block_inner_bg.png) no-repeat 0 bottom;
+    position: absolute;
+    top: 5px;
+    left: 5%;
+    display: block;
+}
+@media (max-width: 767px) {
+body .basket-btn-order .basket-btn-order-inner:before {
+    display: none;
+}
+}
+/*End Bg modal window basket*/
+/*End modal window*/
+
+/*Bg footer*/
+/*Bg footer block top*/
+body .wrap_input input[type="submit"],
+body .right_block_subscribt_right .wrap_input input[type="submit"],
+body .search_right input[type="submit"] {
+    background: url(../img/bg/miss_footer_block_top_right_input_bg.jpg) left top no-repeat #dbbfb9;
+}
+body .wrap_input input[type="submit"]:hover,
+body .right_block_subscribt_right .wrap_input input[type="submit"]:hover,
+body .search_right input[type="submit"]:hover {
+    background: none;
+    background-color: #dcb7b7;
+}
+
+/*End bg footer block top*/
+
+body .footer_block_second {
+    background: url(../img/bg/miss_footer_second_bg.jpg) center bottom no-repeat #f2efed;
+    background-size: 1830px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .footer_block_second  {
+    background-size: 1525px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .footer_block_second  {
+    background-size: 1175px;
+}
+}
+body .footer_block_center:after {
+    content: url(../img/bg/miss_small_fly_right_bg.png);
+    display: block;
+    height: 43px;
+    width: 47px;
+    position: absolute;
+    bottom: 0px;
+    right: 20%;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .footer_block_center:after {
+    display: none;
+}
+}
+@media (max-width: 767px) {
+body .footer_block_center:after {
+    display: none;
+}
+}
+/*Bg footer menu li*/
+body .footer_menu > li.li-hover > a:before,
+body .footer_menu > li.li-active > a:before {
+    content: url(../img/bg/miss_wrap_footer_menu_bg.png);
+    display: block;
+    height: 41px;
+    width: 28px;
+    position: absolute;
+    top: -13px;
+    left: -13px;
+}
+/*End bg footer menu li*/
+
+/*Bg for footer block center left social*/
+body .footer_social ul:after {
+    content: url(../img/bg/miss_small_fly_bg.png);
+    display: block;
+    height: 48px;
+    width: 47px;
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    z-index: 1;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .footer_social ul:after {
+    display: none;
+}
+}
+/*End bg style for footer block center left social*/
+/*End bg footer*/
+
+
+
+
+/*Inner page*/
+
+body .inner_page .center_wrap:before {
+    content: "";
+    height: 90%;
+    width: 100%;
+    display: block;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P///00GNMDEgAVQKAgQYACL7QPgX73r0wAAAABJRU5ErkJggg==) repeat;
+    top: 28px;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+body .inner_page .main_inner_title,
+body .personal_block_title {
+    background: url("../img/bg/miss_block_order_call_bg.png") no-repeat top right;
+}
+body .block_you_look_bg {
+    background: url(../img/bg/miss_block_you_look_bg.jpg) center bottom no-repeat;
+    background-size: 1280px;
+    width: 1280px;
+    height: 356px;
+    bottom: 0px;
+    left: -205px;
+    position: absolute;
+}
+body .block_you_look_big_bg {
+    background: url(../img/bg/miss_block_you_look_big_bg.jpg) center bottom no-repeat;
+    background-size: 1315px;
+    width: 1315px;
+    height: 478px;
+    bottom: 0px;
+    left: -60px;
+    position: absolute;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .block_you_look_bg {
+    background-size: 1050px;
+    width: 1050px;
+    height: 292px;
+    left: -168px;
+    bottom: 10px;
+    display: none;
+}
+body .block_you_look_big_bg {
+    background-size:970px;
+    width: 970px;
+    height: 352px;
+    left: 5px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .block_you_look_bg {
+    background-size: 820px;
+    width: 820px;
+    height: 228px;
+    left: -130px;
+    bottom: 30px;
+    display: none;
+}
+body .block_you_look_big_bg {
+    background-size:738px;
+    width: 738px;
+    height: 268px;
+    left: 10px;
+    bottom: 63px;
+}
+}
+@media (max-width: 767px) {
+body .block_you_look_bg {
+    display: none;
+}
+body .block_you_look_big_bg {
+    display: none;
+}
+}
+body .one-item .item-discount:before,
+body .block_you_look #buy-now-slider .buy_now_top .item-discount:before {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAbCAYAAACeA7ShAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA+5JREFUeNqkVUtsG1UUffN5Ho9jzzh27PgTe1riEsdJSptEdJHyET8pFRugygIoqtQQWKAGdYEQCJBACCG6qRAUFkgVggWUZZFKxaJFRAkpbUpc1XUSx23zsxN/MhPH/5nhPilGESppbSwd3Tf33Tlz73n3XVPof/zeGjp0oMli+SKnbPjWVlZ66EaJPn7tpRG+qeliINTZZ7XbpsGVpRoiev3l5wwc9317sIMP/3klFo/O7D3z+1SerZfo6MH9JpPZfKpNkvib0+FFTdWWCRHZq7vM7r7e43anwzc1MbHa09/fhg24Uturm8wsikPR6XAq+NDeFoORQxhjS22vrjLfe+X5R8ulkt3udDZ7/H6aZTEymkxMQ5k5XO53EouLfmgHBnRDSjaLlPX1xH9mBgITXxAQA2ELNf9no8eeMouWJ8yKgKRAAEjkwvWrV2PLt++8sVNmTwPmAK1AbKs5Hwh2vK9WVdwe6tT+mpxcuTUzi6Alhk9fGIvvRJaFjIqAW7AWiePLd0efycnKAEVR5ZlwOC2IgpszGviOnu5T8EHunzLhYRDsKjkoAKlfBJ8AZEotCER+e2E+rvMmfk2wWr0tLhdyeryoq3f/Adj7BGJP1DKbhYcrgEtbmewDWIFwF/nIyTeHm+PR6CPJpaVCqVz2eiQJuXxtyGIVUaFQIK1xeHuZeEt4AxgZQO7Zk6RMwGar1zuyns5o3f29vNcvIYahUaVcRZhlkVpWUalUKm4/zRgQSWCrgDSAaEW0iIL9A07rBchknWFYLrO2VlCrlQrDYg6zjHPmejiez+VGamTUXVrjKJgBwDDgG5qmj7AYU3CpaZphGFJiIBRCkxcvfTs1PvEqZF/e6TRnAeGt9TE4Qa3V69EVRalIewJV3mRC2VQa6br+y3aiuzYtBIyBGYMMyel+CC9hp8tNUSxDQ29t7A52sLqu8WZB8Pz7Xeoe44ZoeQ5K9T82OKhaHS3NGLPldHK1OBeJfAR+LZ/bvPHpD+fOk3hmJ7JrdxLyPr87Cdm9eHtujpMzmUJiabliEQScXFp+HCR41h9oP9yiFn+E2Axzr8sNQREgJD04tCHL5lKxyNEMjTVN24Te4xiakW0Ox2XJhKP3NTVAx9/AjJK1x+/b6Ds4gPgmUwkhXcumU3Yo92ygK3ShnhF0BhCFa1WK3YgsLsTmbTaHk3F52/RAV6eqqar3vskgOx3M5zAcLaCdrVqtUrsf3IM8kp+6Nj5xev5mtL/esf014AgIn7aIoppKrmqirZly+3wGcvUa+qv76oMTP1OIOlTM5yML8fjxVCI5TsjYRsjkdOYsjKKHOaPxu5M/nf+15v9bgAEAOTGcc3z67QIAAAAASUVORK5CYII=);
+    display: block;
+    height: 27px;
+    line-height: 27px;
+    width: 19px;
+    position: absolute;
+    top: -20px;
+    right: -7px;
+    z-index: 50;
+}
+
+
+/*Style right block title for brand page*/
+body .inner_page .inner_title_brand {
+    background: url("../img/bg/miss_inner_title_brand_bg.jpg") repeat-x 0 0;
+}
+/*End style right block title for brand page*/
+
+/*Detail page*/
+body .detail_block_title {
+    background: url(../img/bg/miss_detail_titile_bg.jpg) 0 0 repeat-x;
+}
+body .btn_add_basket:after {
+    content: url(../img/bg/miss_small_fly_bg.png);
+    display: block;
+    height: 48px;
+    width: 47px;
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    z-index: 1;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .btn_add_basket:after {
+    display: none;
+}
+}
+body .desc_fly_1_bg:after {
+    content: url(../img/bg/miss_section_item_discount_bg.png);
+    display: block;
+    height: 27px;
+    line-height: 27px;
+    width: 19px;
+    position: absolute;
+    top: -7px;
+    right: -20px;
+}
+body .desc_fly_2_bg:after {
+    content: url(../img/bg/miss_detail_title_fly_bg.png );
+    display: block;
+    height: 27px;
+    line-height: 27px;
+    width: 19px;
+    position: absolute;
+    top: -7px;
+    right: -30px;
+}
+@media (max-width: 767px) {
+body .btn_add_basket:after {
+    right: -25px;
+}
+}
+/*Style for block next_prev_item*/
+body .detail_block_title .block_title_list ul li .next_prev_item_inner {
+    background: url(../img/bg/miss_next_prev_item_bg_small.png) right bottom no-repeat;
+}
+/*End style for block next_prev_item*/
+
+body .detail_bottom_wrap {
+    background-color: #f8f8f8;
+}
+body .detail_bottom_wrap .container {
+    background: url(../img/bg/miss_detail_bottom_bg.jpg) center top no-repeat;
+    background-size: 1170px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+body .detail_bottom_wrap .container {
+    background-size: 970px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .detail_bottom_wrap .container {
+    background-size: 750px;
+}
+}
+@media (max-width: 767px) {
+body .detail_bottom_wrap .container {
+   background: none;
+}
+}
+/*End detail page*/
+
+/*Style page basket*/
+body .block_order_call {
+    background: url(../img/bg/miss_block_order_call_bg.png) 0 0 no-repeat;
+}
+body .block_order_call_right .wrap_input input[type="submit"] {
+    background: url(../img/bg/miss_block_order_call_right_input_bg.jpg) left top no-repeat #dbb9b9;
+}
+body .basket_item .row {
+    background: url(../img/bg/miss_basket_item_row_bg.jpg) right top no-repeat #f6f4f5;
+}
+@media (max-width: 767px) {
+body .basket_item .row {
+    background: #fbfafa;
+}
+}
+body .wrap_basket_order .basket_order_btn:after,
+body .wrap_order_send_btn:after {
+    content: url("../img/bg/miss_small_fly_bg.png");
+    display: block;
+    height: 48px;
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    width: 47px;
+    z-index: 1;
+}
+
+body .order_comment textarea {
+    background: url(../img/bg/miss_detail_title_fly_bg.png ) 99% 85% no-repeat #fff;
+}
+/*End style page basket*/
+
+
+/*Style personal_detail_order*/
+body .table_detail_order .table_footer .wrap_bnt_order_pay:after {
+    content: url("../img/bg/miss_small_fly_bg.png");
+    display: block;
+    height: 48px;
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    width: 47px;
+    z-index: 1;
+}
+/*End style personal_detail_order*/
+
+/*Style page login*/
+body .login_page .title .bg_fly {
+    position: relative;
+}
+body .login_page .title .bg_fly:after {
+    content: url("../img/bg/miss_small_fly_bg.png");
+    display: block;
+    height: 48px;
+    position: absolute;
+    right: -60px;
+    top: -20px;
+    width: 47px;
+    z-index: 1;
+}
+/*End style page login*/
+
+
+/*Style detail page news*/
+body .block_office .prop_wrap_btn .wrap_show_map span {
+    background: url(../img/bg/miss_detail_input_bg.png) left top no-repeat #dbbfb9;
+}
+body .block_office .prop_wrap_btn .wrap_show_map:hover span {
+    background: #dcb7b7;
+}
+body .yandex_map_title,
+body .block_map .bx-yandex-map .yandex_map_title {
+    color: #a76e6e;
+}
+/*End style detail page news*/
+
+/*Style block office address*/
+body .page_news .news_detail .go_list span {
+    background: url(../img/bg/miss_detail_input_bg.png) left top no-repeat #dbbfb9;
+}
+body .page_news .news_detail .go_list:hover span {
+    background: #dcb7b7;
+}
+/*End style block office address*/
+
+/* Bg for 404*/
+body .bg-404  {
+    background: url(../img/bg/miss_404_bg.jpg) center 13px no-repeat;
+}
+body .bg-404 .inner_page .center_wrap,
+body .bg-404 .inner_page .center_wrap:before {
+    background: none;
+}
+body .bg-404  .inner_page .container:before {
+    content: url("../img/bg/miss_small_fly_right_bg.png");
+    display: block;
+    height: 48px;
+    width: 47px;
+    position: absolute;
+    top: 70%;
+    right: 12%;
+    z-index: 1;
+}
+body .block_404_left .text:before {
+    content: url(../img/bg/miss_small_fly_bg.png);
+    display: block;
+    height: 48px;
+    width: 47px;
+    position: absolute;
+    top: -73px;
+    right: 0px;
+    z-index: 1;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+body .bg-404  {
+    background-size: 1900px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+body .bg-404  {
+    background-size: 1900px;
+}
+}
+@media (max-width: 767px) {
+body .bg-404  {
+    background: #faf1ec;
+}
+body .main-bg  {
+    border-top: none;
+    background: none;
+}
+body .bg-404  .inner_page .container:before {
+    top: auto;
+    bottom: 3px;
+    left: 15px;
+    right: auto;
+}
+}
+/* End Bg for 404*/
+/*End inner page*/

@@ -1,0 +1,114 @@
+/*Pannel miss-shop settings*/
+.settings_panel {
+    position: fixed;
+    top: 20%;
+    right: -269px;
+    width: 310px;
+    z-index: 1000;
+}
+.settings_panel .row {
+    margin: 0;
+}
+.settings_panel .settings_left {
+    border-top: 1px solid #eaeaea;
+    border-left: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+    background: #fff;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 100px;
+    cursor: pointer;
+    width: 42px;
+    float: left;
+}
+.settings_panel .settings_right {
+    border-top: 1px solid #eaeaea;
+    border-left: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+    background: #fff;
+    position: rerlative;
+    z-index: 2;
+    box-shadow:  -10px 2px 70px 2px #c5c5c5;
+    -webkit-box-shadow:  -10px 2px 70px 2px #c5c5c5;
+    -moz-box-shadow:  -10px 2px 70px 2px #c5c5c5;
+    padding: 23px 10px 85px 10px;
+    min-height: 200px;
+    margin-left: 42px;
+}
+.settings_panel .settings_left .text {
+    font-family: 'Franklin Gothic Book', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    margin-top: 70px;
+    margin-left: -41px;
+    padding-right: 40px;
+    width: 125px;
+    background: url(img/miss_settings_gear.png) no-repeat bottom right;
+    -webkit-transform: rotate(-90deg); /* Chrome y Safari */
+    -moz-transform: rotate(-90deg); /* Firefox */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); /* Internet Explorer */
+    -o-transform: rotate(-90deg); /* Opera */
+    transform: rotate(-90deg);
+}
+.settings_panel .settings_right .block_title {
+    font-family: 'Franklin Gothic Book', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.settings_panel .settings_right .wrap_btn_options {
+    display: block;
+}
+.settings_panel .settings_right .wrap_btn_options .btn {
+    max-width: 160px;
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    background: url(img/miss_settings_btn.png) repeat-x center left;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow:  -0px 2px 3px 0px #efefef;
+    -webkit-box-shadow:  -0px 2px 3px 0px #efefef;
+    -moz-box-shadow:  -0px 2px 3px 0px #efefef;
+    margin-bottom: 12px;
+}
+.settings_panel .settings_right .wrap_btn_options .btn.btn_2 {
+    background-image: url(img/miss_settings_btn_act.png);
+}
+.settings_panel .settings_right .wrap_btn_options .btn .btn_inner {
+    font-family: 'Franklin Gothic Book', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 37px;
+    height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    display: block;
+    background: #fff;
+    border-radius: 4px;
+    opacity: 0.98;
+    text-shadow:  1px 1px 1px #b5b5b5;
+    filter:dropshadow(color= 1px 1px 1px #b5b5b5);
+    box-shadow:  -0px 2px 2px 0px #c4c4c4;
+    -webkit-box-shadow:  -0px 2px 2px 0px #c4c4c4;
+    -moz-box-shadow:  -0px 2px 2px 0px #c4c4c4;
+}
+.settings_panel .settings_right .wrap_btn_options .btn:hover,
+.settings_panel .settings_right .wrap_btn_options .btn:active {
+box-shadow:  0px 2px 5px 0px #cfcfcf;
+-webkit-box-shadow:  0px 2px 5px 0px #cfcfcf;
+-moz-box-shadow:  0px 2px 5px 0px #cfcfcf;
+}
+.settings_panel .settings_right .wrap_btn_options .btn.btn_active {
+    cursor: default;
+    box-shadow:  -0px 2px 3px 0px #efefef;
+    -webkit-box-shadow:  -0px 2px 3px 0px #efefef;
+    -moz-box-shadow:  -0px 2px 3px 0px #efefef;    
+}
+/*End pannel miss-shop settings*/
