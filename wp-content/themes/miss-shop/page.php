@@ -473,7 +473,40 @@ get_header(); ?>
 
                         <div class="catalog-banner"></div>
 
-                        <div class="subscription-panel"></div>
+                        <div class="subscription-block col-sm-12 hidden-xs">
+
+                            <div class="row">
+
+                                <div class="subscription-block-left">
+                                    <p>Хотите узнавать о новых поступлениях в данной категории?</p>
+                                </div>
+
+                                <div class="subscription-block-right">
+                                    <form action="">
+
+                                        <div class="block-center">
+
+                                            <label>Введите Ваш email</label>
+                                            <input type="text" placeholder="email@mail.ru" maxlength="50"
+                                                   name="EMAIL_TO" value="" title="email@mail.ru">
+
+                                        </div>
+
+                                        <div class="block-left">
+                                            <div class="wrap_input">
+                                                <input type="submit" name="Save" value="Подписаться >">
+                                            </div>
+                                        </div>
+
+
+                                    </form>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
 
                         <div class="row" style="margin: 0">
 
