@@ -116,15 +116,15 @@
 
                 <div class="collapse my-nav navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="#"> <span> Джемперы и кардиганы </span> </a></li>
-                        <li><a href="#"><span> Нижнее белье </span></a></li>
-                        <li><a href="#"><span> Обувь </span></a></li>
-                        <li><a href="#"><span> Платья </span></a></li>
-                        <li><a href="#"><span> Футболки и блузки </span></a></li>
-                        <li><a href="#"><span> Бренды </span></a></li>
-                        <li><a href="#"><span> Распродажа </span></a></li>
-                        <li><a href="#"><span> Доставка и оплата </span></a></li>
-                        <li><a href="#"><span> О магазине </span></a></li>
+                        <li><a href="?action=page"> <span> Джемперы и кардиганы </span> </a></li>
+                        <li><a href="?action=page"><span> Нижнее белье </span></a></li>
+                        <li><a href="?action=page"><span> Обувь </span></a></li>
+                        <li><a href="?action=page"><span> Платья </span></a></li>
+                        <li><a href="?action=page"><span> Футболки и блузки </span></a></li>
+                        <li><a href="?action=page"><span> Бренды </span></a></li>
+                        <li><a href="?action=page"><span> Распродажа </span></a></li>
+                        <li><a href="?action=page"><span> Доставка и оплата </span></a></li>
+                        <li><a href="?action=page"><span> О магазине </span></a></li>
                     </ul>
                 </div>
 

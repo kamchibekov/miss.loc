@@ -2087,10 +2087,7 @@ footer#footer .contact .social ul>li:last-child a:hover{
     padding: 3px 15px 30px 15px;
     max-width: 256px;
     background: #fff;
-}
-
-@media (max-width: 767px){
-    .page .products-list .one-item{ width: 50%; }
+    margin-bottom: 131px;
 }
 
 .page .products-list .one-item .item-top{

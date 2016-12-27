@@ -470,6 +470,11 @@ get_header(); ?>
                     </div>
 
                     <div class="col-sm-9 no-padding-right">
+
+                        <div class="catalog-banner"></div>
+
+                        <div class="subscription-panel"></div>
+
                         <div class="row" style="margin: 0">
 
 
@@ -479,24 +484,259 @@ get_header(); ?>
 
                             <div class="col-sm-12 sm-no-padding">
 
-                                <div class="products-list">
+                                <div class="row">
 
+                                    <div class="products-list">
+
+
+                                        <div class="row">
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="one-item">
+
+                                                        <div class="item-top">
+                                                            <a href="?action=item" class="clearfix">
+                                                                <img class="img-responsive"
+                                                                     src="<?php bloginfo('template_url') ?>/img/swiper1.jpg">
+
+                                                            </a>
+
+                                                            <span class="item-discount">
+                                                        <span class="inner-discount"> -5% </span>
+                                                    </span>
+
+                                                        </div>
+
+                                                        <div class="item-bottom">
+                                                            <div class="info clearfix">
+                                                                <div class="name">
+                                                                    <a><p>Rare</p></a>
+                                                                    <p><i>Perfect Coverage Bra </i></p>
+                                                                </div>
+                                                                <div class="price">
+                                                                    <p class="item-price">9 405 руб.</p>
+
+                                                                    <p class="item-price-old">9 900 руб.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
                                 </div>
-
                             </div>
-
                         </div>
-
-
                     </div>
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
 <?php
 
 get_footer();

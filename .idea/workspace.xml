@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58dbcdaf-aa7b-44ad-b092-3fa5fc029160" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +30,10 @@
       <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="472" column="57" lean-forward="false" selection-start-line="472" selection-start-column="57" selection-end-line="472" selection-end-column="57" />
+            <state relative-caret-position="523">
+              <caret line="725" column="58" lean-forward="false" selection-start-line="725" selection-start-column="58" selection-end-line="725" selection-end-column="58" />
               <folding>
+                <element signature="e#574#28190#0#HTML" expanded="false" />
                 <element signature="e#648#7142#0#HTML" expanded="false" />
                 <element signature="e#719#7111#0#HTML" expanded="false" />
                 <element signature="e#836#2065#0#HTML" expanded="false" />
@@ -68,6 +71,7 @@
                 <element signature="e#6404#6531#0#HTML" expanded="false" />
                 <element signature="e#6657#7036#0#HTML" expanded="false" />
                 <element signature="e#6842#6993#0#HTML" expanded="false" />
+                <element signature="e#7168#28161#0#HTML" expanded="false" />
                 <element signature="e#7357#9962#0#HTML" expanded="false" />
                 <element signature="e#7431#7739#0#HTML" expanded="false" />
                 <element signature="e#7780#9918#0#HTML" expanded="false" />
@@ -132,16 +136,25 @@
                 <element signature="e#26312#27776#0#HTML" expanded="false" />
                 <element signature="e#26386#26697#0#HTML" expanded="false" />
                 <element signature="e#27814#28051#0#HTML" expanded="false" />
+                <element signature="e#28418#28435#0#HTML" expanded="true" />
+                <element signature="e#29026#30900#0#HTML" expanded="false" />
+                <element signature="e#30953#32827#0#HTML" expanded="false" />
+                <element signature="e#32880#34754#0#HTML" expanded="false" />
+                <element signature="e#34807#36681#0#HTML" expanded="false" />
+                <element signature="e#36734#38608#0#HTML" expanded="false" />
+                <element signature="e#38661#40535#0#HTML" expanded="false" />
+                <element signature="e#40588#42462#0#HTML" expanded="false" />
+                <element signature="e#42515#44389#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="2080" column="0" lean-forward="true" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+            <state relative-caret-position="387">
+              <caret line="2092" column="45" lean-forward="false" selection-start-line="2092" selection-start-column="45" selection-end-line="2092" selection-end-column="45" />
               <folding>
                 <element signature="e#48160#48459#1" expanded="true" />
                 <element signature="e#48869#49092#1" expanded="true" />
@@ -150,11 +163,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="127" column="25" lean-forward="true" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -191,10 +214,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/brands.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/js/custom.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
       </list>
     </option>
   </component>
@@ -235,6 +258,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop.loc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miss-shop" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,16 +404,16 @@
       <workItem from="1482648386622" duration="8734000" />
       <workItem from="1482690680012" duration="4413000" />
       <workItem from="1482740539366" duration="16964000" />
-      <workItem from="1482816464390" duration="7966000" />
+      <workItem from="1482816464390" duration="12103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40163000" />
+    <option name="totallyTimeSpent" value="44300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -344,7 +421,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -373,6 +450,7 @@
         <state relative-caret-position="6579">
           <caret line="387" column="121" lean-forward="false" selection-start-line="387" selection-start-column="105" selection-end-line="387" selection-end-column="121" />
           <folding>
+            <element signature="e#574#28190#0#HTML" expanded="false" />
             <element signature="e#648#7142#0#HTML" expanded="false" />
             <element signature="e#719#7111#0#HTML" expanded="false" />
             <element signature="e#836#2065#0#HTML" expanded="false" />
@@ -410,6 +488,7 @@
             <element signature="e#6404#6531#0#HTML" expanded="false" />
             <element signature="e#6657#7036#0#HTML" expanded="false" />
             <element signature="e#6842#6993#0#HTML" expanded="false" />
+            <element signature="e#7168#28161#0#HTML" expanded="false" />
             <element signature="e#7357#9962#0#HTML" expanded="false" />
             <element signature="e#7431#7739#0#HTML" expanded="false" />
             <element signature="e#7780#9918#0#HTML" expanded="false" />
@@ -474,6 +553,15 @@
             <element signature="e#26312#27776#0#HTML" expanded="false" />
             <element signature="e#26386#26697#0#HTML" expanded="false" />
             <element signature="e#27814#28051#0#HTML" expanded="false" />
+            <element signature="e#28418#28435#0#HTML" expanded="true" />
+            <element signature="e#29026#30900#0#HTML" expanded="false" />
+            <element signature="e#30953#32827#0#HTML" expanded="false" />
+            <element signature="e#32880#34754#0#HTML" expanded="false" />
+            <element signature="e#34807#36681#0#HTML" expanded="false" />
+            <element signature="e#36734#38608#0#HTML" expanded="false" />
+            <element signature="e#38661#40535#0#HTML" expanded="false" />
+            <element signature="e#40588#42462#0#HTML" expanded="false" />
+            <element signature="e#42515#44389#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -611,6 +699,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -631,14 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="87" column="39" lean-forward="true" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -675,14 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="70" column="54" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/brands.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225">
@@ -694,16 +767,31 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="134" column="41" lean-forward="true" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="472" column="57" lean-forward="false" selection-start-line="472" selection-start-column="57" selection-end-line="472" selection-end-column="57" />
+        <state relative-caret-position="523">
+          <caret line="725" column="58" lean-forward="false" selection-start-line="725" selection-start-column="58" selection-end-line="725" selection-end-column="58" />
           <folding>
+            <element signature="e#574#28190#0#HTML" expanded="false" />
             <element signature="e#648#7142#0#HTML" expanded="false" />
             <element signature="e#719#7111#0#HTML" expanded="false" />
             <element signature="e#836#2065#0#HTML" expanded="false" />
@@ -741,6 +829,7 @@
             <element signature="e#6404#6531#0#HTML" expanded="false" />
             <element signature="e#6657#7036#0#HTML" expanded="false" />
             <element signature="e#6842#6993#0#HTML" expanded="false" />
+            <element signature="e#7168#28161#0#HTML" expanded="false" />
             <element signature="e#7357#9962#0#HTML" expanded="false" />
             <element signature="e#7431#7739#0#HTML" expanded="false" />
             <element signature="e#7780#9918#0#HTML" expanded="false" />
@@ -805,18 +894,35 @@
             <element signature="e#26312#27776#0#HTML" expanded="false" />
             <element signature="e#26386#26697#0#HTML" expanded="false" />
             <element signature="e#27814#28051#0#HTML" expanded="false" />
+            <element signature="e#28418#28435#0#HTML" expanded="true" />
+            <element signature="e#29026#30900#0#HTML" expanded="false" />
+            <element signature="e#30953#32827#0#HTML" expanded="false" />
+            <element signature="e#32880#34754#0#HTML" expanded="false" />
+            <element signature="e#34807#36681#0#HTML" expanded="false" />
+            <element signature="e#36734#38608#0#HTML" expanded="false" />
+            <element signature="e#38661#40535#0#HTML" expanded="false" />
+            <element signature="e#40588#42462#0#HTML" expanded="false" />
+            <element signature="e#42515#44389#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="2080" column="0" lean-forward="true" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+        <state relative-caret-position="387">
+          <caret line="2092" column="45" lean-forward="false" selection-start-line="2092" selection-start-column="45" selection-end-line="2092" selection-end-column="45" />
           <folding>
             <element signature="e#48160#48459#1" expanded="true" />
             <element signature="e#48869#49092#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="127" column="25" lean-forward="true" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
