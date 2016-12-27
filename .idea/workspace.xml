@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58dbcdaf-aa7b-44ad-b092-3fa5fc029160" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/about.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,141 +29,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/page.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="495" column="66" lean-forward="false" selection-start-line="495" selection-start-column="56" selection-end-line="495" selection-end-column="66" />
-              <folding>
-                <element signature="e#574#28190#0#HTML" expanded="false" />
-                <element signature="e#648#7142#0#HTML" expanded="false" />
-                <element signature="e#719#7111#0#HTML" expanded="false" />
-                <element signature="e#836#2065#0#HTML" expanded="false" />
-                <element signature="e#906#1611#0#HTML" expanded="false" />
-                <element signature="e#1003#1568#0#HTML" expanded="false" />
-                <element signature="e#1072#1346#0#HTML" expanded="false" />
-                <element signature="e#1392#1522#0#HTML" expanded="false" />
-                <element signature="e#1648#2026#0#HTML" expanded="false" />
-                <element signature="e#1832#1983#0#HTML" expanded="false" />
-                <element signature="e#2098#3319#0#HTML" expanded="false" />
-                <element signature="e#2168#2865#0#HTML" expanded="false" />
-                <element signature="e#2265#2822#0#HTML" expanded="false" />
-                <element signature="e#2334#2608#0#HTML" expanded="false" />
-                <element signature="e#2654#2776#0#HTML" expanded="false" />
-                <element signature="e#2902#3280#0#HTML" expanded="false" />
-                <element signature="e#3086#3237#0#HTML" expanded="false" />
-                <element signature="e#3352#4564#0#HTML" expanded="false" />
-                <element signature="e#3422#4111#0#HTML" expanded="false" />
-                <element signature="e#3519#4068#0#HTML" expanded="false" />
-                <element signature="e#3588#3861#0#HTML" expanded="false" />
-                <element signature="e#3907#4022#0#HTML" expanded="false" />
-                <element signature="e#4148#4525#0#HTML" expanded="false" />
-                <element signature="e#4331#4482#0#HTML" expanded="false" />
-                <element signature="e#4597#5814#0#HTML" expanded="false" />
-                <element signature="e#4667#5359#0#HTML" expanded="false" />
-                <element signature="e#4764#5316#0#HTML" expanded="false" />
-                <element signature="e#4833#5108#0#HTML" expanded="false" />
-                <element signature="e#5154#5270#0#HTML" expanded="false" />
-                <element signature="e#5396#5775#0#HTML" expanded="false" />
-                <element signature="e#5581#5732#0#HTML" expanded="false" />
-                <element signature="e#5847#7075#0#HTML" expanded="false" />
-                <element signature="e#5917#6620#0#HTML" expanded="false" />
-                <element signature="e#6014#6577#0#HTML" expanded="false" />
-                <element signature="e#6083#6358#0#HTML" expanded="false" />
-                <element signature="e#6404#6531#0#HTML" expanded="false" />
-                <element signature="e#6657#7036#0#HTML" expanded="false" />
-                <element signature="e#6842#6993#0#HTML" expanded="false" />
-                <element signature="e#7168#28161#0#HTML" expanded="false" />
-                <element signature="e#7357#9962#0#HTML" expanded="false" />
-                <element signature="e#7431#7739#0#HTML" expanded="false" />
-                <element signature="e#7780#9918#0#HTML" expanded="false" />
-                <element signature="e#7865#9870#0#HTML" expanded="false" />
-                <element signature="e#7946#9818#0#HTML" expanded="false" />
-                <element signature="e#8032#8335#0#HTML" expanded="false" />
-                <element signature="e#8389#8692#0#HTML" expanded="false" />
-                <element signature="e#8746#9049#0#HTML" expanded="false" />
-                <element signature="e#9103#9406#0#HTML" expanded="false" />
-                <element signature="e#9460#9763#0#HTML" expanded="false" />
-                <element signature="e#10000#11920#0#HTML" expanded="false" />
-                <element signature="e#10074#10390#0#HTML" expanded="false" />
-                <element signature="e#10431#11876#0#HTML" expanded="false" />
-                <element signature="e#10518#11828#0#HTML" expanded="false" />
-                <element signature="e#10599#11776#0#HTML" expanded="false" />
-                <element signature="e#10685#10993#0#HTML" expanded="false" />
-                <element signature="e#11047#11357#0#HTML" expanded="false" />
-                <element signature="e#11411#11721#0#HTML" expanded="false" />
-                <element signature="e#11958#19439#0#HTML" expanded="false" />
-                <element signature="e#12032#12329#0#HTML" expanded="false" />
-                <element signature="e#12608#13112#0#HTML" expanded="false" />
-                <element signature="e#12954#12981#0#HTML" expanded="true" />
-                <element signature="e#13165#13669#0#HTML" expanded="false" />
-                <element signature="e#13511#13538#0#HTML" expanded="true" />
-                <element signature="e#13722#14226#0#HTML" expanded="false" />
-                <element signature="e#14068#14095#0#HTML" expanded="true" />
-                <element signature="e#14279#14783#0#HTML" expanded="false" />
-                <element signature="e#14625#14652#0#HTML" expanded="true" />
-                <element signature="e#14836#15340#0#HTML" expanded="false" />
-                <element signature="e#15182#15209#0#HTML" expanded="true" />
-                <element signature="e#15393#15897#0#HTML" expanded="false" />
-                <element signature="e#15739#15766#0#HTML" expanded="true" />
-                <element signature="e#15950#16454#0#HTML" expanded="false" />
-                <element signature="e#16296#16323#0#HTML" expanded="true" />
-                <element signature="e#16507#17011#0#HTML" expanded="false" />
-                <element signature="e#16853#16880#0#HTML" expanded="true" />
-                <element signature="e#17064#17568#0#HTML" expanded="false" />
-                <element signature="e#17410#17437#0#HTML" expanded="true" />
-                <element signature="e#17621#18125#0#HTML" expanded="false" />
-                <element signature="e#17967#17994#0#HTML" expanded="true" />
-                <element signature="e#18178#18682#0#HTML" expanded="false" />
-                <element signature="e#18524#18551#0#HTML" expanded="true" />
-                <element signature="e#18735#19239#0#HTML" expanded="false" />
-                <element signature="e#19081#19108#0#HTML" expanded="true" />
-                <element signature="e#19477#22366#0#HTML" expanded="false" />
-                <element signature="e#22404#24316#0#HTML" expanded="false" />
-                <element signature="e#22478#22787#0#HTML" expanded="false" />
-                <element signature="e#22828#24272#0#HTML" expanded="false" />
-                <element signature="e#22914#24224#0#HTML" expanded="false" />
-                <element signature="e#22995#24172#0#HTML" expanded="false" />
-                <element signature="e#23081#23389#0#HTML" expanded="false" />
-                <element signature="e#23443#23753#0#HTML" expanded="false" />
-                <element signature="e#23807#24117#0#HTML" expanded="false" />
-                <element signature="e#24354#26274#0#HTML" expanded="false" />
-                <element signature="e#24428#24743#0#HTML" expanded="false" />
-                <element signature="e#24784#26230#0#HTML" expanded="false" />
-                <element signature="e#24872#26182#0#HTML" expanded="false" />
-                <element signature="e#24953#26130#0#HTML" expanded="false" />
-                <element signature="e#25039#25347#0#HTML" expanded="false" />
-                <element signature="e#25401#25711#0#HTML" expanded="false" />
-                <element signature="e#25765#26075#0#HTML" expanded="false" />
-                <element signature="e#26312#27776#0#HTML" expanded="false" />
-                <element signature="e#26386#26697#0#HTML" expanded="false" />
-                <element signature="e#27814#28051#0#HTML" expanded="false" />
-                <element signature="e#29705#29722#0#HTML" expanded="true" />
-                <element signature="e#29913#45947#0#HTML" expanded="false" />
-                <element signature="e#30313#32187#0#HTML" expanded="false" />
-                <element signature="e#32240#34114#0#HTML" expanded="false" />
-                <element signature="e#34167#36041#0#HTML" expanded="false" />
-                <element signature="e#36094#37968#0#HTML" expanded="false" />
-                <element signature="e#38021#39895#0#HTML" expanded="false" />
-                <element signature="e#39948#41822#0#HTML" expanded="false" />
-                <element signature="e#41875#43749#0#HTML" expanded="false" />
-                <element signature="e#43802#45676#0#HTML" expanded="false" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/style.css">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/about.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="2230" column="1" lean-forward="false" selection-start-line="2230" selection-start-column="1" selection-end-line="2230" selection-end-column="1" />
+              <caret line="160" column="70" lean-forward="false" selection-start-line="160" selection-start-column="70" selection-end-line="160" selection-end-column="70" />
               <folding>
-                <element signature="e#48541#48840#1" expanded="true" />
-                <element signature="e#49252#49475#1" expanded="true" />
-                <element signature="e#59242#59409#1" expanded="true" />
-                <element signature="e#59732#60291#1" expanded="true" />
-                <element signature="e#61753#61920#1" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -170,18 +54,18 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="127" column="25" lean-forward="true" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/js/custom.js">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="101" column="64" lean-forward="false" selection-start-line="101" selection-start-column="64" selection-end-line="101" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -217,14 +101,15 @@
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/item.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/404.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/main.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/brands.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/js/custom.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/about.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php" />
       </list>
     </option>
   </component>
@@ -411,22 +296,22 @@
       <workItem from="1482648386622" duration="8734000" />
       <workItem from="1482690680012" duration="4413000" />
       <workItem from="1482740539366" duration="16964000" />
-      <workItem from="1482816464390" duration="20448000" />
+      <workItem from="1482816464390" duration="23591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52645000" />
+    <option name="totallyTimeSpent" value="55788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -741,34 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="80" lean-forward="false" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="262" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -789,24 +650,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/main.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="134" column="41" lean-forward="true" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+        <state relative-caret-position="202">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="e#48541#48840#1" expanded="true" />
+            <element signature="e#49252#49475#1" expanded="true" />
+            <element signature="e#59242#59409#1" expanded="true" />
+            <element signature="e#59732#60291#1" expanded="true" />
+            <element signature="e#61753#61920#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="495" column="66" lean-forward="false" selection-start-line="495" selection-start-column="56" selection-end-line="495" selection-end-column="66" />
+        <state relative-caret-position="102">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <element signature="e#574#28190#0#HTML" expanded="false" />
             <element signature="e#648#7142#0#HTML" expanded="false" />
@@ -925,25 +786,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="127" column="25" lean-forward="true" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+        <state relative-caret-position="235">
+          <caret line="48" column="80" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="2230" column="1" lean-forward="false" selection-start-line="2230" selection-start-column="1" selection-end-line="2230" selection-end-column="1" />
+          <caret line="160" column="70" lean-forward="false" selection-start-line="160" selection-start-column="70" selection-end-line="160" selection-end-column="70" />
           <folding>
-            <element signature="e#48541#48840#1" expanded="true" />
-            <element signature="e#49252#49475#1" expanded="true" />
-            <element signature="e#59242#59409#1" expanded="true" />
-            <element signature="e#59732#60291#1" expanded="true" />
-            <element signature="e#61753#61920#1" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/miss-shop/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="101" column="64" lean-forward="false" selection-start-line="101" selection-start-column="64" selection-end-line="101" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>

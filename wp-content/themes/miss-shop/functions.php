@@ -13,6 +13,33 @@
 
 add_action('customize_register', function($customizer) {
 
+
+    /* Contacts Begin! */
+
+    $customizer->add_section( 'miss-contacts', array('title' => 'Контакты','description' => '','priority' => 1,));
+
+        $customizer->add_setting( 'miss-phone-1', array('default' => ''));
+        $customizer->add_control( 'miss-phone-1', array('label' => 'Телефон 1','section' => 'miss-contacts','type' => 'text',));
+
+        $customizer->add_setting( 'miss-phone-2', array('default' => ''));
+        $customizer->add_control( 'miss-phone-2', array('label' => 'Телефон 2','section' => 'miss-contacts','type' => 'text',));
+
+        $customizer->add_setting( 'miss-email', array('default' => ''));
+        $customizer->add_control( 'miss-email', array('label' => 'Email','section' => 'miss-contacts','type' => 'email',));
+
+        /* Social links */
+
+        $customizer->add_setting( 'social-vk', array('default' => ''));
+        $customizer->add_control( 'social-vk', array('label' => 'Вконтакте','section' => 'miss-contacts','type' => 'url',));
+
+        $customizer->add_setting( 'social-fb', array('default' => ''));
+        $customizer->add_control( 'social-fb', array('label' => 'Фейсбук','section' => 'miss-contacts','type' => 'url',));
+
+        $customizer->add_setting( 'social-tw', array('default' => ''));
+        $customizer->add_control( 'social-tw', array('label' => 'Твиттер','section' => 'miss-contacts','type' => 'url',));
+
+    /* Contacts End! */
+
 /* Main slider Begin! */
     $customizer->add_section( 'main-slider', array('title' => 'Главный слайдер','description' => '','priority' => 2,));
 
@@ -67,6 +94,21 @@ add_action('customize_register', function($customizer) {
 
 
 /* Small Banner End! */
+
+    /* About Begin! */
+
+    $customizer->add_section( 'miss-about', array('title' => 'О Магазине','description' => '','priority' => 4,));
+
+        $customizer->add_setting( 'miss-about-text-1', array('default' => ''));
+        $customizer->add_control( 'miss-about-text-1', array('label' => 'Заголовок 1','section' => 'miss-about','type' => 'text',));
+
+        $customizer->add_setting( 'miss-about-text-2', array('default' => ''));
+        $customizer->add_control( 'miss-about-text-2', array('label' => 'Заголовок 2','section' => 'miss-about','type' => 'text',));
+
+        $customizer->add_setting( 'miss-about-desc-2', array('default' => ''));
+        $customizer->add_control( 'miss-about-desc-2', array('label' => 'Текст','section' => 'miss-about','type' => 'textarea',));
+
+    /* About End! */
 
 });
 

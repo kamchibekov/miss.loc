@@ -59,9 +59,9 @@
                                 Заказ на сайте и по телефону
                             </div>
                             <div class="phone">
-                                <p>8 (495) 988-46-18</p>
+                                <p><?php echo get_theme_mod('miss-phone-1'); ?> </p>
 
-                                <p>8 (495) 988-46-18 <i>Круглосуточно</i></p>
+                                <p><?php echo get_theme_mod('miss-phone-2'); ?>  <i>Круглосуточно</i></p>
                             </div>
                         </div>
                     </div>

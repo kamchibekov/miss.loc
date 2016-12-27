@@ -99,17 +99,17 @@
                             <a> Контакты </a>
                         </div>
                         <div class="email">
-                            info@example.com
+                            <?php echo get_theme_mod('miss-email'); ?>
                         </div>
                         <div class="phone">
-                            <p>8 (495) 988-46-18</p>
-                            <p>8 (495) 988-46-18</p>
+                            <p><?php echo get_theme_mod('miss-phone-1'); ?></p>
+                            <p><?php echo get_theme_mod('miss-phone-2'); ?></p>
                         </div>
                         <div class="social clearfix">
                             <ul class="clearfix">
-                                <li><a href="#"></a></li>
-                                <li><a href="#"></a></li>
-                                <li><a href="#"></a></li>
+                                <li><a href="<?php echo get_theme_mod('social-vk'); ?>"></a></li>
+                                <li><a href="<?php echo get_theme_mod('social-fb'); ?>"></a></li>
+                                <li><a href="<?php echo get_theme_mod('social-tw'); ?>"></a></li>
                             </ul>
                         </div>
                     </div>
