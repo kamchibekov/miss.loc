@@ -35,6 +35,8 @@ header#header .wrap-phone .phone p i {
 
 header#header .search {
     margin-top: 40px;
+    margin-bottom: 12px;
+    position: relative;
 }
 
 header#header .search form {
@@ -319,6 +321,8 @@ header#header .container.adi ul li a span {
     -moz-box-shadow: 0 03px 3px 1px #cfcfcf;
 }
 
+
+
 @media (max-width: 500px) {
     #content .block-banner .no-padding .owl-carousel .owl-nav {
         top: 40%;
@@ -398,6 +402,8 @@ header#header .container.adi ul li a span {
     #content .main-center-block {
         background: none;
     }
+
+    #content .block-banner { margin-top: 5px; }
 }
 
 /* Small Banner Begin */

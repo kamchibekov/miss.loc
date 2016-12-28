@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efc9ff89-4628-4f74-a29b-b2e8cc8d475b" name="Default" comment="" />
+    <ignored path="kupislona_archive.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kupislona_archive" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kupislona_archive.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kupislona_archive.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7001795">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#222#0#PHP" expanded="true" />
+                <marker date="1479463341363" expanded="true" signature="1913:1926" placeholder="SELECT * FRO..." />
+                <marker date="1479463341363" expanded="true" signature="1913:1927" placeholder="SELECT * FRO..${{$wpdb-&gt;prefix}..." />
+                <marker date="1479463341363" expanded="true" signature="1913:1959" placeholder="SELECT * FRO..rn_kupislona_archive..." />
+                <marker date="1479463341363" expanded="true" signature="1913:1960" placeholder="SELECT * FRO..rn_posts..." />
+                <marker date="1479463341363" expanded="true" signature="2008:2027" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2123:2143" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2144:2681" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2174:2192" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2174:2193" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2279:2680" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2279:2681" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2307:2652" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2336:2623" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2659:2680" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2791:2803" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="2866:2879" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3121:3154" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3155:3214" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3155:3220" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3155:3359" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3161:3214" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3215:3220" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3335:3359" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3382:3442" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3382:3475" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3382:3508" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3382:3539" placeholder="..." />
+                <marker date="1479463341363" expanded="true" signature="3682:3711" placeholder="DROP TABLE I..." />
+                <marker date="1479463341363" expanded="true" signature="3748:4158" placeholder="CREATE TABLE..${{$wpdb-&gt;prefix}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kupislona_archive.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kupislona_archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kupislona_archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kupislona_archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efc9ff89-4628-4f74-a29b-b2e8cc8d475b" name="Default" comment="" />
+      <created>1479375508049</created>
+      <option name="number" value="Default" />
+      <updated>1479375508049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16187595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kupislona_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#222#0#PHP" expanded="true" />
+            <marker date="1479463341363" expanded="true" signature="1913:1926" placeholder="SELECT * FRO..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1927" placeholder="SELECT * FRO..${{$wpdb-&gt;prefix}..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1959" placeholder="SELECT * FRO..rn_kupislona_archive..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1960" placeholder="SELECT * FRO..rn_posts..." />
+            <marker date="1479463341363" expanded="true" signature="2008:2027" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2123:2143" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2144:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2192" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2193" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2307:2652" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2336:2623" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2659:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2791:2803" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2866:2879" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3121:3154" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3161:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3215:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3335:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3442" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3475" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3508" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3539" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3682:3711" placeholder="DROP TABLE I..." />
+            <marker date="1479463341363" expanded="true" signature="3748:4158" placeholder="CREATE TABLE..${{$wpdb-&gt;prefix}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kupislona_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#222#0#PHP" expanded="true" />
+            <marker date="1479463341363" expanded="true" signature="1913:1926" placeholder="SELECT * FRO..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1927" placeholder="SELECT * FRO..${{$wpdb-&gt;prefix}..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1959" placeholder="SELECT * FRO..rn_kupislona_archive..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1960" placeholder="SELECT * FRO..rn_posts..." />
+            <marker date="1479463341363" expanded="true" signature="2008:2027" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2123:2143" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2144:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2192" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2193" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2307:2652" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2336:2623" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2659:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2791:2803" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2866:2879" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3121:3154" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3161:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3215:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3335:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3442" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3475" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3508" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3539" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3682:3711" placeholder="DROP TABLE I..." />
+            <marker date="1479463341363" expanded="true" signature="3748:4158" placeholder="CREATE TABLE..${{$wpdb-&gt;prefix}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kupislona_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7001795">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#222#0#PHP" expanded="true" />
+            <marker date="1479463341363" expanded="true" signature="1913:1926" placeholder="SELECT * FRO..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1927" placeholder="SELECT * FRO..${{$wpdb-&gt;prefix}..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1959" placeholder="SELECT * FRO..rn_kupislona_archive..." />
+            <marker date="1479463341363" expanded="true" signature="1913:1960" placeholder="SELECT * FRO..rn_posts..." />
+            <marker date="1479463341363" expanded="true" signature="2008:2027" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2123:2143" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2144:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2192" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2174:2193" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2279:2681" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2307:2652" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2336:2623" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2659:2680" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2791:2803" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="2866:2879" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3121:3154" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3155:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3161:3214" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3215:3220" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3335:3359" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3442" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3475" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3508" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3382:3539" placeholder="..." />
+            <marker date="1479463341363" expanded="true" signature="3682:3711" placeholder="DROP TABLE I..." />
+            <marker date="1479463341363" expanded="true" signature="3748:4158" placeholder="CREATE TABLE..${{$wpdb-&gt;prefix}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

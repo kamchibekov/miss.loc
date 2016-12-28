@@ -154,9 +154,9 @@
                     <div class="title"><h2> О Магазине </h2></div>
 
                     <div class="about-text">
-                        <h2><?php echo get_theme_mod('miss-about-text-1'); ?> </h2>
+                        <h2> MISS SHOP - всемирно известный онлайн-магазин товаров класса люкс </h2>
 
-                        <h2><?php echo get_theme_mod('miss-about-text-2'); ?> </h2>
+                        <h2> Каждый месяц наш сайт посещают 4,000,000 человек. </h2>
 
                         <p><?php echo get_theme_mod('miss-about-desc-2'); ?></p>
 

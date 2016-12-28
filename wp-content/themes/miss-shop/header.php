@@ -42,6 +42,31 @@
 
 <header id="header">
 
+    <div class="navbar navbar-inverse navbar-static-top hidden-sm hidden-md hidden-lg">
+        <div class="container">
+
+            <button class="navbar-toggle pull-left" data-toggle="collapse" data-target=".navHeaderCollapse">    <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+
+            </button>
+            <div class="collapse navbar-collapse navHeaderCollapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">ABOUT ME<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li><a href="#">RESUME</a>
+                    </li>
+                    <li><a href="#">PROJECTS</a>
+                    </li>
+                    <li><a href="#">BLOG</a>
+                    </li>
+                    <li><a href="#">CONTACT</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <div class="row">
             <div class="col-sm-8">
@@ -87,7 +112,7 @@
     <!-- Меню -->
 
 
-    <div class="container adi">
+    <div class="container adi hidden-xs">
         <div class="row">
             <nav class="navbar navbar-default">
 
@@ -132,9 +157,6 @@
             </nav>
         </div>
     </div>
-
-
-    <!-- Меню end -->
 
 
 </header>

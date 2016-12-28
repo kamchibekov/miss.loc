@@ -9,8 +9,6 @@
     }
 
 
-
-
 add_action('customize_register', function($customizer) {
 
 
@@ -95,20 +93,6 @@ add_action('customize_register', function($customizer) {
 
 /* Small Banner End! */
 
-    /* About Begin! */
-
-    $customizer->add_section( 'miss-about', array('title' => 'О Магазине','description' => '','priority' => 4,));
-
-        $customizer->add_setting( 'miss-about-text-1', array('default' => ''));
-        $customizer->add_control( 'miss-about-text-1', array('label' => 'Заголовок 1','section' => 'miss-about','type' => 'text',));
-
-        $customizer->add_setting( 'miss-about-text-2', array('default' => ''));
-        $customizer->add_control( 'miss-about-text-2', array('label' => 'Заголовок 2','section' => 'miss-about','type' => 'text',));
-
-        $customizer->add_setting( 'miss-about-desc-2', array('default' => ''));
-        $customizer->add_control( 'miss-about-desc-2', array('label' => 'Текст','section' => 'miss-about','type' => 'textarea',));
-
-    /* About End! */
 
 });
 
